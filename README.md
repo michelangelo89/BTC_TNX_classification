@@ -1,10 +1,15 @@
 # Data analysis
-- Document here the project: BTC_TNX_classification
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- BTC_TNX_classification
+- Description: Classify licit and illicit transactions
+- Data Source:https://www.kaggle.com/ellipticco/elliptic-data-set
+- Type of analysis: supervides classification
 
-Please document the project the better you can.
+## Description
+The Elliptic Data Set maps Bitcoin transactions to real entities belonging to licit categories (exchanges, wallet providers, miners, licit services, etc.) versus illicit ones (scams, malware, terrorist organizations, ransomware, Ponzi schemes, etc.). The task on the dataset is to classify the illicit and licit nodes in the graph.
+
+[1] Elliptic, www.elliptic.co.
+
+[2] M. Weber, G. Domeniconi, J. Chen, D. K. I. Weidele, C. Bellei, T. Robinson, C. E. Leiserson, "Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics", KDD ’19 Workshop on Anomaly Detection in Finance, August 2019, Anchorage, AK, USA.
 
 # Startup the project
 
